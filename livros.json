@@ -1,0 +1,102 @@
+[
+    {
+        "titulo": "O Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "editora": "HarperCollins",
+        "ano": 1937,
+        "sinopse": "Bilbo Bolseiro é arrastado para uma aventura épica para retomar o reino anão de Erebor do dragão Smaug.",
+        "paginas": 336,
+        "genero": ["fantasia", "aventura"],
+        "preco": 69.90
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "editora": "Companhia das Letras",
+        "ano": 1949,
+        "sinopse": "Em um regime totalitário, Winston Smith tenta rebelar-se contra o monitoramento constante do Grande Irmão.",
+        "paginas": 416,
+        "genero": ["distopia", "ficção científica"],
+        "preco": 54.90
+    },
+    {
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "editora": "Aleph",
+        "ano": 1965,
+        "sinopse": "No planeta desértico Arrakis, o jovem Paul Atreides deve vingar sua família e controlar a substância mais valiosa do universo.",
+        "paginas": 680,
+        "genero": ["ficção científica", "aventura"],
+        "preco": 94.50
+    },
+    {
+        "titulo": "O Iluminado",
+        "autor": "Stephen King",
+        "editora": "Suma",
+        "ano": 1977,
+        "sinopse": "Um escritor aceita o emprego de zelador de inverno em um hotel isolado, onde forças sinistras começam a influenciar sua mente.",
+        "paginas": 520,
+        "genero": ["terror", "suspense"],
+        "preco": 79.90
+    },
+    {
+        "titulo": "Neuromancer",
+        "autor": "William Gibson",
+        "editora": "Aleph",
+        "ano": 1984,
+        "sinopse": "Um hacker decadente é contratado para uma última missão que o leva para as profundezas da Matrix e da inteligência artificial.",
+        "paginas": 352,
+        "genero": ["cyberpunk", "ficção científica"],
+        "preco": 62.00
+    },     
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "autor": "J.R.R. Tolkien",
+        "editora": "HarperCollins",
+        "ano": 1954,
+        "sinopse": "Um hobbit recebe a missão de destruir um anel maligno e salvar a Terra Média.",
+        "paginas": 576,
+        "genero": ["fantasia", "aventura"],
+        "preco": 129.90
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "editora": "Companhia das Letras",
+        "ano": 1949,
+        "sinopse": "Uma distopia sobre um estado totalitário que vigia cada passo de seus cidadãos.",
+        "paginas": 336,
+        "genero": ["ficção científica", "distopia"],
+        "preco": 45.00
+    },
+    {
+        "titulo": "Torto Arado",
+        "autor": "Itamar Vieira Junior",
+        "editora": "Todavia",
+        "ano": 2019,
+        "sinopse": "A história de duas irmãs no sertão baiano ligadas por um acidente de infância.",
+        "paginas": 264,
+        "genero": ["literatura brasileira", "drama"],
+        "preco": 62.90
+    },
+    {
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "editora": "Aleph",
+        "ano": 1965,
+        "sinopse": "Em um planeta deserto, famílias nobres lutam pelo controle da substância mais valiosa do universo.",
+        "paginas": 680,
+        "genero": ["ficção científica", "épico"],
+        "preco": 110.00
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "editora": "Principis",
+        "ano": 1899,
+        "sinopse": "O clássico relato de Bento Santiago sobre sua possível traição por Capitu.",
+        "paginas": 192,
+        "genero": ["clássico", "realismo"],
+        "preco": 25.00
+    }
+  ]
