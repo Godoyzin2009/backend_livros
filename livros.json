@@ -20,14 +20,14 @@
         "preco": 54.90
     },
     {
-        "titulo": "Duna",
-        "autor": "Frank Herbert",
-        "editora": "Aleph",
-        "ano": 1965,
-        "sinopse": "No planeta desértico Arrakis, o jovem Paul Atreides deve vingar sua família e controlar a substância mais valiosa do universo.",
-        "paginas": 680,
-        "genero": ["ficção científica", "aventura"],
-        "preco": 94.50
+        "titulo": "Crime e Castigo",
+        "autor": "Fiódor Dostoiévski",
+        "editora": "Todavia",
+        "ano": 1866,
+        "sinopse": "Um jovem estudante em São Petersburgo comete um assassinato e lida com o tormento psicológico de sua culpa.",
+        "paginas": 592,
+        "genero": ["clássico", "drama"],
+        "preco": 84.90
     },
     {
         "titulo": "O Iluminado",
@@ -60,24 +60,24 @@
         "preco": 129.90
     },
     {
-        "titulo": "1984",
-        "autor": "George Orwell",
-        "editora": "Companhia das Letras",
-        "ano": 1949,
-        "sinopse": "Uma distopia sobre um estado totalitário que vigia cada passo de seus cidadãos.",
-        "paginas": 336,
-        "genero": ["ficção científica", "distopia"],
-        "preco": 45.00
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "editora": "HarperCollins",
+        "ano": 1943,
+        "sinopse": "Um piloto perdido no deserto encontra um jovem príncipe vindo de outro planeta que lhe ensina lições sobre a vida.",
+        "paginas": 96,
+        "genero": ["fábula", "fantasia"],
+        "preco": 39.90
     },
     {
-        "titulo": "Torto Arado",
-        "autor": "Itamar Vieira Junior",
-        "editora": "Todavia",
-        "ano": 2019,
-        "sinopse": "A história de duas irmãs no sertão baiano ligadas por um acidente de infância.",
-        "paginas": 264,
-        "genero": ["literatura brasileira", "drama"],
-        "preco": 62.90
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "editora": "Zahar",
+        "ano": 1818,
+        "sinopse": "Um cientista obcecado cria uma criatura viva a partir de partes de cadáveres, enfrentando consequências trágicas.",
+        "paginas": 304,
+        "genero": ["terror", "ficção científica"],
+        "preco": 59.90
     },
     {
         "titulo": "Duna",
@@ -90,13 +90,13 @@
         "preco": 110.00
     },
     {
-        "titulo": "Dom Casmurro",
-        "autor": "Machado de Assis",
-        "editora": "Principis",
-        "ano": 1899,
-        "sinopse": "O clássico relato de Bento Santiago sobre sua possível traição por Capitu.",
-        "paginas": 192,
-        "genero": ["clássico", "realismo"],
-        "preco": 25.00
+        "titulo": "Cem Anos de Solidão",
+        "autor": "Gabriel García Márquez",
+        "editora": "Record",
+        "ano": 1967,
+        "sinopse": "A ascensão e queda da família Buendía na cidade fictícia de Macondo através de várias gerações.",
+        "paginas": 448,
+        "genero": ["realismo mágico", "drama"],
+        "preco": 74.90
     }
   ]
